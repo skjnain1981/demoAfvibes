@@ -1,0 +1,6 @@
+{
+  "enabledMcpjsonServers": [
+    "Salesforce DX"
+  ],
+  "enableAllProjectMcpServers": true
+}
